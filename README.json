@@ -1,0 +1,404 @@
+{
+  "items": [
+    {
+      "description": "Some web tools related to Web Components",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vulcanize",
+          "description": "by Polymer Project.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2018-04-09T22:06:11Z",
+            "owner": "Polymer",
+            "repo": "polymer-bundler",
+            "stars": 1191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Web Components Tester",
+          "description": "by Polymer Project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-20T05:11:15Z",
+            "owner": "Polymer",
+            "repo": "web-component-tester",
+            "stars": 564
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Element Generator for Yeoman",
+          "description": "by WebComponents.org.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-12-31T16:14:23Z",
+            "owner": "deprecate",
+            "repo": "generator-element",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Element Generator for Slush",
+          "description": "by WebComponents.org.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2016-10-28T10:30:21Z",
+            "owner": "webcomponents",
+            "repo": "slush-element",
+            "stars": 41
+          }
+        }
+      ],
+      "title": "Web Tools"
+    },
+    {
+      "description": "Libraries and frameworks related with Web Components",
+      "items": [],
+      "title": "Libraries and Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Polymer Generator for Yeoman",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2017-02-13T17:34:30Z",
+            "owner": "yeoman",
+            "repo": "generator-polymer",
+            "stars": 913
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Polymer",
+          "description": "by Maurizio Mangione. :guitar:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-03-21T18:52:01Z",
+            "owner": "Granze",
+            "repo": "awesome-polymer",
+            "stars": 401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PolymerSnippets",
+          "description": "by Rob Dodson.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-02-04T11:01:14Z",
+            "owner": "robdodson",
+            "repo": "PolymerSnippets",
+            "stars": 219
+          }
+        }
+      ],
+      "title": "Polymer"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Keo",
+          "description": "for Shadow DOM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-24T22:39:42Z",
+            "owner": "Wildhoney",
+            "repo": "Keo",
+            "stars": 227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Standalone",
+          "description": "for Custom Elements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-09-26T14:02:11Z",
+            "owner": "Wildhoney",
+            "repo": "Standalone",
+            "stars": 207
+          }
+        }
+      ],
+      "title": "ReactJS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Git repository",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:19:58Z",
+            "owner": "stenciljs",
+            "repo": "core",
+            "stars": 13125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnywhereUI",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-06-06T19:38:21Z",
+            "owner": "adaleks",
+            "repo": "anywhere-ui",
+            "stars": 38
+          }
+        }
+      ],
+      "title": "Stencil.js"
+    },
+    {
+      "description": "Some Web Components",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Github Time Elements",
+          "description": "by GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-07T17:34:54Z",
+            "owner": "github",
+            "repo": "relative-time-element",
+            "stars": 4015
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Media Chrome (Custom Elements for Media UIs)",
+          "description": "by Mux, Inc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-01T19:27:56Z",
+            "owner": "muxinc",
+            "repo": "media-chrome",
+            "stars": 2720
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Router Manager",
+          "description": "by Erik Ringsmuth.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2018-01-12T17:29:18Z",
+            "owner": "erikringsmuth",
+            "repo": "app-router",
+            "stars": 607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mux Open Elements (Custom Elements for Media)",
+          "description": "by Mux, Inc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-23T23:04:35Z",
+            "owner": "muxinc",
+            "repo": "elements",
+            "stars": 362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Responsive Embed",
+          "description": "by Joselito Júnior",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2016-02-04T03:45:17Z",
+            "owner": "breakzplatform",
+            "repo": "responsive-embed",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Image Display Control",
+          "description": "by Frameright.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-05-10T14:45:24Z",
+            "owner": "Frameright",
+            "repo": "image-display-control-web-component",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "Components"
+    },
+    {
+      "description": "A WebComponents.org selection",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Hello World's",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Using VanillaJS",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "HTML",
+                "last_commit": "2018-11-15T08:03:59Z",
+                "owner": "webcomponents",
+                "repo": "hello-world-element",
+                "stars": 151
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Using Polymer",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "HTML",
+                "last_commit": "2018-08-12T19:40:05Z",
+                "owner": "webcomponents",
+                "repo": "hello-world-polymer",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Using X-Tags",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "HTML",
+                "last_commit": "2017-04-10T04:48:21Z",
+                "owner": "webcomponents",
+                "repo": "hello-world-xtag",
+                "stars": 23
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Boilerplates",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Using Polymer",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "HTML",
+                "last_commit": "2015-07-07T21:59:16Z",
+                "owner": "webcomponents",
+                "repo": "polymer-boilerplate",
+                "stars": 369
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Using VanillaJS",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "HTML",
+                "last_commit": "2020-02-12T00:02:13Z",
+                "owner": "webcomponents",
+                "repo": "element-boilerplate",
+                "stars": 275
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Using X-Tags",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "HTML",
+                "last_commit": "2015-05-28T21:59:41Z",
+                "owner": "webcomponents",
+                "repo": "xtag-boilerplate",
+                "stars": 50
+              }
+            }
+          ]
+        }
+      ],
+      "title": "WebComponents.org"
+    },
+    {
+      "description": "Your contributions are always welcome!",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "MIT License © Beto Muniz",
+      "items": [],
+      "title": "License"
+    },
+    {
+      "description": "This list was inspired by awesome-go and awesome-python.",
+      "items": [],
+      "title": "Inspiration"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:10:16.259Z",
+    "original_repository": "obetomuniz/awesome-webcomponents",
+    "original_repository_sha": "9c8550ed278a970006ef67c023e2d473e4912cf0",
+    "enhanced_repository": "enhansome/enhansome-webcomponents",
+    "enhanced_repository_description": null,
+    "title": "Awesome Web Components with stars"
+  }
+}
