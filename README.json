@@ -160,7 +160,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T23:19:58Z",
+            "last_commit": "2026-08-13T16:17:53Z",
             "owner": "stenciljs",
             "repo": "core",
             "stars": 13125
@@ -211,7 +211,7 @@
             "last_commit": "2026-07-01T19:27:56Z",
             "owner": "muxinc",
             "repo": "media-chrome",
-            "stars": 2720
+            "stars": 2722
           }
         },
         {
@@ -394,7 +394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:10:16.259Z",
+    "last_updated": "2026-08-14T04:58:19.219Z",
     "original_repository": "obetomuniz/awesome-webcomponents",
     "original_repository_sha": "9c8550ed278a970006ef67c023e2d473e4912cf0",
     "enhanced_repository": "enhansome/enhansome-webcomponents",
