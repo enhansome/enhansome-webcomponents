@@ -197,7 +197,7 @@
             "last_commit": "2026-08-07T17:34:54Z",
             "owner": "github",
             "repo": "relative-time-element",
-            "stars": 4015
+            "stars": 4016
           }
         },
         {
@@ -211,7 +211,7 @@
             "last_commit": "2026-07-01T19:27:56Z",
             "owner": "muxinc",
             "repo": "media-chrome",
-            "stars": 2723
+            "stars": 2726
           }
         },
         {
@@ -239,7 +239,7 @@
             "last_commit": "2026-07-23T23:04:35Z",
             "owner": "muxinc",
             "repo": "elements",
-            "stars": 362
+            "stars": 363
           }
         },
         {
@@ -394,7 +394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T03:50:34.527Z",
+    "last_updated": "2026-08-16T03:56:09.472Z",
     "original_repository": "obetomuniz/awesome-webcomponents",
     "original_repository_sha": "9c8550ed278a970006ef67c023e2d473e4912cf0",
     "enhanced_repository": "enhansome/enhansome-webcomponents",
