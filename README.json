@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 13599100,
             "language": "TypeScript",
             "last_commit": "2018-04-09T22:06:11Z",
             "owner": "Polymer",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23168206,
             "language": "TypeScript",
             "last_commit": "2026-06-20T05:11:15Z",
             "owner": "Polymer",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17056525,
             "language": "JavaScript",
             "last_commit": "2021-12-31T16:14:23Z",
             "owner": "deprecate",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 20281541,
             "language": "JavaScript",
             "last_commit": "2016-10-28T10:30:21Z",
             "owner": "webcomponents",
@@ -64,124 +68,135 @@
     },
     {
       "description": "Libraries and frameworks related with Web Components",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Polymer Generator for Yeoman",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 11635422,
+                "language": "JavaScript",
+                "last_commit": "2017-02-13T17:34:30Z",
+                "owner": "yeoman",
+                "repo": "generator-polymer",
+                "stars": 912
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Polymer",
+              "description": "by Maurizio Mangione. :guitar:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33659483,
+                "language": null,
+                "last_commit": "2018-03-21T18:52:01Z",
+                "owner": "Granze",
+                "repo": "awesome-polymer",
+                "stars": 401
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PolymerSnippets",
+              "description": "by Rob Dodson.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17389214,
+                "language": null,
+                "last_commit": "2018-02-04T11:01:14Z",
+                "owner": "robdodson",
+                "repo": "PolymerSnippets",
+                "stars": 219
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Polymer"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Keo",
+              "description": "for Shadow DOM.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44556469,
+                "language": "JavaScript",
+                "last_commit": "2023-01-24T22:39:42Z",
+                "owner": "Wildhoney",
+                "repo": "Keo",
+                "stars": 227
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Standalone",
+              "description": "for Custom Elements.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55620680,
+                "language": "JavaScript",
+                "last_commit": "2016-09-26T14:02:11Z",
+                "owner": "Wildhoney",
+                "repo": "Standalone",
+                "stars": 207
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ReactJS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Git repository",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82095231,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T23:47:57Z",
+                "owner": "stenciljs",
+                "repo": "core",
+                "stars": 13123
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AnywhereUI",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 417591966,
+                "language": "TypeScript",
+                "last_commit": "2024-06-06T19:38:21Z",
+                "owner": "adaleks",
+                "repo": "anywhere-ui",
+                "stars": 38
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Stencil.js"
+        }
+      ],
       "title": "Libraries and Frameworks"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Polymer Generator for Yeoman",
-          "description": ".",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2017-02-13T17:34:30Z",
-            "owner": "yeoman",
-            "repo": "generator-polymer",
-            "stars": 912
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Awesome Polymer",
-          "description": "by Maurizio Mangione. :guitar:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2018-03-21T18:52:01Z",
-            "owner": "Granze",
-            "repo": "awesome-polymer",
-            "stars": 401
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PolymerSnippets",
-          "description": "by Rob Dodson.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2018-02-04T11:01:14Z",
-            "owner": "robdodson",
-            "repo": "PolymerSnippets",
-            "stars": 219
-          }
-        }
-      ],
-      "title": "Polymer"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Keo",
-          "description": "for Shadow DOM.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-24T22:39:42Z",
-            "owner": "Wildhoney",
-            "repo": "Keo",
-            "stars": 227
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Standalone",
-          "description": "for Custom Elements.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2016-09-26T14:02:11Z",
-            "owner": "Wildhoney",
-            "repo": "Standalone",
-            "stars": 207
-          }
-        }
-      ],
-      "title": "ReactJS"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Git repository",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T23:47:57Z",
-            "owner": "stenciljs",
-            "repo": "core",
-            "stars": 13123
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AnywhereUI",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-06-06T19:38:21Z",
-            "owner": "adaleks",
-            "repo": "anywhere-ui",
-            "stars": 38
-          }
-        }
-      ],
-      "title": "Stencil.js"
     },
     {
       "description": "Some Web Components",
@@ -193,6 +208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19039693,
             "language": "JavaScript",
             "last_commit": "2026-08-07T17:34:54Z",
             "owner": "github",
@@ -207,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 208394975,
             "language": "TypeScript",
             "last_commit": "2026-07-01T19:27:56Z",
             "owner": "muxinc",
@@ -221,6 +238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21885551,
             "language": "HTML",
             "last_commit": "2018-01-12T17:29:18Z",
             "owner": "erikringsmuth",
@@ -235,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 395097869,
             "language": "TypeScript",
             "last_commit": "2026-07-23T23:04:35Z",
             "owner": "muxinc",
@@ -249,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23636610,
             "language": "HTML",
             "last_commit": "2016-02-04T03:45:17Z",
             "owner": "breakzplatform",
@@ -263,6 +283,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 566933482,
             "language": "TypeScript",
             "last_commit": "2025-05-10T14:45:24Z",
             "owner": "Frameright",
@@ -288,6 +309,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 18499758,
                 "language": "HTML",
                 "last_commit": "2018-11-15T08:03:59Z",
                 "owner": "webcomponents",
@@ -302,6 +324,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 18499761,
                 "language": "HTML",
                 "last_commit": "2018-08-12T19:40:05Z",
                 "owner": "webcomponents",
@@ -316,6 +339,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 18499722,
                 "language": "HTML",
                 "last_commit": "2017-04-10T04:48:21Z",
                 "owner": "webcomponents",
@@ -337,6 +361,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 12218029,
                 "language": "HTML",
                 "last_commit": "2015-07-07T21:59:16Z",
                 "owner": "webcomponents",
@@ -351,6 +376,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 18086815,
                 "language": "HTML",
                 "last_commit": "2020-02-12T00:02:13Z",
                 "owner": "webcomponents",
@@ -365,6 +391,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 17183552,
                 "language": "HTML",
                 "last_commit": "2015-05-28T21:59:41Z",
                 "owner": "webcomponents",
@@ -376,26 +403,12 @@
         }
       ],
       "title": "WebComponents.org"
-    },
-    {
-      "description": "Your contributions are always welcome!",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "MIT License © Beto Muniz",
-      "items": [],
-      "title": "License"
-    },
-    {
-      "description": "This list was inspired by awesome-go and awesome-python.",
-      "items": [],
-      "title": "Inspiration"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:55:22.444Z",
+    "last_updated": "2026-08-19T12:57:59.383Z",
     "original_repository": "obetomuniz/awesome-webcomponents",
+    "original_repository_id": 34875393,
     "original_repository_sha": "9c8550ed278a970006ef67c023e2d473e4912cf0",
     "enhanced_repository": "enhansome/enhansome-webcomponents",
     "enhanced_repository_description": null,
