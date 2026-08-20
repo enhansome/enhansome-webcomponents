@@ -172,7 +172,7 @@
                 "last_commit": "2026-08-18T23:47:57Z",
                 "owner": "stenciljs",
                 "repo": "core",
-                "stars": 13123
+                "stars": 13122
               }
             },
             {
@@ -213,7 +213,7 @@
             "last_commit": "2026-08-07T17:34:54Z",
             "owner": "github",
             "repo": "relative-time-element",
-            "stars": 4016
+            "stars": 4017
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2026-07-01T19:27:56Z",
             "owner": "muxinc",
             "repo": "media-chrome",
-            "stars": 2725
+            "stars": 2727
           }
         },
         {
@@ -406,7 +406,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:57:59.383Z",
+    "last_updated": "2026-08-20T03:55:04.700Z",
     "original_repository": "obetomuniz/awesome-webcomponents",
     "original_repository_id": 34875393,
     "original_repository_sha": "9c8550ed278a970006ef67c023e2d473e4912cf0",
