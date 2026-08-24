@@ -125,6 +125,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Git repository",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69333096,
+                "language": "CSS",
+                "last_commit": "2023-09-06T15:36:01Z",
+                "owner": "slimjs",
+                "repo": "slim.js",
+                "stars": 1036
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Slim-JS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Keo",
               "description": "for Shadow DOM.",
               "children": [],
@@ -162,6 +184,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "SkateJS Repo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16425042,
+                "language": "JavaScript",
+                "last_commit": "2022-02-26T01:34:54Z",
+                "owner": "skatejs",
+                "repo": "skatejs",
+                "stars": 3271
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "SkateJS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Switzerland",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68638095,
+                "language": "TypeScript",
+                "last_commit": "2024-09-27T00:25:56Z",
+                "owner": "Wildhoney",
+                "repo": "Switzerland",
+                "stars": 265
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Switzerland"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Git repository",
               "description": null,
               "children": [],
@@ -194,6 +260,94 @@
           "description": null,
           "node_type": "group",
           "title": "Stencil.js"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Git repository",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 544693746,
+                "language": "CSS",
+                "last_commit": "2023-10-24T17:42:53Z",
+                "owner": "darshanmarathe",
+                "repo": "componentForge",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ComponentForge"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bit",
+              "description": "component development, reuse and collaboration tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79723839,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T14:05:19Z",
+                "owner": "teambit",
+                "repo": "bit",
+                "stars": 18460
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Bit"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NuML repository",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 192300696,
+                "language": "JavaScript",
+                "last_commit": "2026-04-01T10:47:58Z",
+                "owner": "outpostHQ",
+                "repo": "numl",
+                "stars": 340
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "NuML"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lego repository",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157021511,
+                "language": "JavaScript",
+                "last_commit": "2026-07-16T14:06:45Z",
+                "owner": "Polight",
+                "repo": "lego",
+                "stars": 149
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Lego"
         }
       ],
       "title": "Libraries and Frameworks"
@@ -406,7 +560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:02:00.983Z",
+    "last_updated": "2026-08-24T14:18:43.574Z",
     "original_repository": "obetomuniz/awesome-webcomponents",
     "original_repository_id": 34875393,
     "original_repository_sha": "9c8550ed278a970006ef67c023e2d473e4912cf0",

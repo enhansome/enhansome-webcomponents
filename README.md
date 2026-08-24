@@ -209,8 +209,8 @@ A curated list of awesome Web Components tools, articles and resources.
 
 ### Slim-JS
 
-* [Slim-JS Documentation](http://slimjs.com)
 * [Git repository](https://github.com/eavichay/slim.js) ⭐ 1,036 | 🐛 14 | 🌐 CSS | 📅 2023-09-06
+* [Slim-JS Documentation](http://slimjs.com)
 
 ### ReactJS
 
@@ -249,24 +249,24 @@ A curated list of awesome Web Components tools, articles and resources.
 
 ### ComponentForge
 
-* [ComponentForge site](https://componentForge.up.railway.app/)
 * [Git repository](https://github.com/darshanmarathe/componentForge) ⭐ 3 | 🐛 1 | 🌐 CSS | 📅 2023-10-24
+* [ComponentForge site](https://componentForge.up.railway.app/)
 * [Web components built with ComponentForge](https://dm-cf-components.netlify.app/)
 * [Wny i wrote ComponentForge](https://medium.com/@darshanmarathe/why-i-wrote-my-own-web-component-framework-ComponentForge-8a8a2f7ca578)
 
 ### Bit
 
-* [Bit](https://github.com/teambit/bit) ⭐ 18,460 | 🐛 90 | 🌐 TypeScript | 📅 2026-08-22 component development, reuse and collaboration tool
+* [Bit](https://github.com/teambit/bit) ⭐ 18,460 | 🐛 89 | 🌐 TypeScript | 📅 2026-08-24 component development, reuse and collaboration tool
 
 ### NuML
 
-* [NuML site & storybook](https://numl.design) style-oriented framework and design system
 * [NuML repository](https://github.com/tenphi/numl) ⭐ 340 | 🐛 24 | 🌐 JavaScript | 📅 2026-04-01
+* [NuML site & storybook](https://numl.design) style-oriented framework and design system
 
 ### Lego
 
-* [Lego site](https://lego.js.org) native web-components made light and reactive
 * [Lego repository](https://github.com/Polight/lego) ⭐ 149 | 🐛 11 | 🌐 JavaScript | 📅 2026-07-16
+* [Lego site](https://lego.js.org) native web-components made light and reactive
 
 ## Components
 
@@ -331,7 +331,7 @@ Your contributions are always welcome!
 
 ## Inspiration
 
-This list was inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 182,066 | 🐛 215 | 🌐 Go | 📅 2026-08-21 and [awesome-python](https://github.com/avelino/awesome-python).
+This list was inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 182,112 | 🐛 215 | 🌐 Go | 📅 2026-08-21 and [awesome-python](https://github.com/avelino/awesome-python).
 
 ***
 
