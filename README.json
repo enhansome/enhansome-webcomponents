@@ -235,10 +235,10 @@
                 "archived": false,
                 "id": 82095231,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T16:43:20Z",
+                "last_commit": "2026-08-25T23:51:17Z",
                 "owner": "stenciljs",
                 "repo": "core",
-                "stars": 13125
+                "stars": 13124
               }
             },
             {
@@ -294,10 +294,10 @@
                 "archived": false,
                 "id": 79723839,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T21:11:42Z",
+                "last_commit": "2026-08-26T02:39:40Z",
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18460
+                "stars": 18462
               }
             }
           ],
@@ -367,7 +367,7 @@
             "last_commit": "2026-08-24T20:06:09Z",
             "owner": "github",
             "repo": "relative-time-element",
-            "stars": 4019
+            "stars": 4018
           }
         },
         {
@@ -560,7 +560,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:11:45.531Z",
+    "last_updated": "2026-08-26T03:59:55.461Z",
     "original_repository": "obetomuniz/awesome-webcomponents",
     "original_repository_id": 34875393,
     "original_repository_sha": "9c8550ed278a970006ef67c023e2d473e4912cf0",
