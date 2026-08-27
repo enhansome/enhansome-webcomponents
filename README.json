@@ -235,10 +235,10 @@
                 "archived": false,
                 "id": 82095231,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T23:51:17Z",
+                "last_commit": "2026-08-26T16:38:43Z",
                 "owner": "stenciljs",
                 "repo": "core",
-                "stars": 13124
+                "stars": 13126
               }
             },
             {
@@ -294,10 +294,10 @@
                 "archived": false,
                 "id": 79723839,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T02:39:40Z",
+                "last_commit": "2026-08-26T23:44:27Z",
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18462
+                "stars": 18463
               }
             }
           ],
@@ -364,10 +364,10 @@
             "archived": false,
             "id": 19039693,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T20:06:09Z",
+            "last_commit": "2026-08-27T06:53:06Z",
             "owner": "github",
             "repo": "relative-time-element",
-            "stars": 4018
+            "stars": 4020
           }
         },
         {
@@ -560,9 +560,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:59:55.461Z",
-    "original_repository": "obetomuniz/awesome-webcomponents",
-    "original_repository_id": 34875393,
+    "last_updated": "2026-08-27T12:13:23.108Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 34875393,
+      "language": null,
+      "last_commit": "2024-01-15T14:50:26Z",
+      "owner": "obetomuniz",
+      "repo": "awesome-webcomponents",
+      "stars": 646
+    },
     "original_repository_sha": "9c8550ed278a970006ef67c023e2d473e4912cf0",
     "enhanced_repository": "enhansome/enhansome-webcomponents",
     "enhanced_repository_description": null,
