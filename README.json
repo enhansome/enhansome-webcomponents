@@ -16,7 +16,8 @@
             "owner": "Polymer",
             "repo": "polymer-bundler",
             "stars": 1191
-          }
+          },
+          "first_seen": "2026-08-28T15:16:36.503Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "Polymer",
             "repo": "web-component-tester",
             "stars": 564
-          }
+          },
+          "first_seen": "2026-08-28T15:16:36.503Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "deprecate",
             "repo": "generator-element",
             "stars": 131
-          }
+          },
+          "first_seen": "2026-08-28T15:16:36.503Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "webcomponents",
             "repo": "slush-element",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T15:16:36.503Z"
         }
       ],
       "title": "Web Tools"
@@ -84,7 +88,8 @@
                 "owner": "yeoman",
                 "repo": "generator-polymer",
                 "stars": 912
-              }
+              },
+              "first_seen": "2026-08-28T15:16:36.503Z"
             },
             {
               "node_type": "item",
@@ -99,7 +104,8 @@
                 "owner": "Granze",
                 "repo": "awesome-polymer",
                 "stars": 401
-              }
+              },
+              "first_seen": "2026-08-28T15:16:36.503Z"
             },
             {
               "node_type": "item",
@@ -114,7 +120,8 @@
                 "owner": "robdodson",
                 "repo": "PolymerSnippets",
                 "stars": 219
-              }
+              },
+              "first_seen": "2026-08-28T15:16:36.503Z"
             }
           ],
           "description": null,
@@ -136,7 +143,8 @@
                 "owner": "slimjs",
                 "repo": "slim.js",
                 "stars": 1036
-              }
+              },
+              "first_seen": "2026-08-28T15:16:36.503Z"
             }
           ],
           "description": null,
@@ -158,7 +166,8 @@
                 "owner": "Wildhoney",
                 "repo": "Keo",
                 "stars": 227
-              }
+              },
+              "first_seen": "2026-08-28T15:16:36.503Z"
             },
             {
               "node_type": "item",
@@ -173,7 +182,8 @@
                 "owner": "Wildhoney",
                 "repo": "Standalone",
                 "stars": 207
-              }
+              },
+              "first_seen": "2026-08-28T15:16:36.503Z"
             }
           ],
           "description": null,
@@ -195,7 +205,8 @@
                 "owner": "skatejs",
                 "repo": "skatejs",
                 "stars": 3271
-              }
+              },
+              "first_seen": "2026-08-28T15:16:36.503Z"
             }
           ],
           "description": null,
@@ -217,7 +228,8 @@
                 "owner": "Wildhoney",
                 "repo": "Switzerland",
                 "stars": 265
-              }
+              },
+              "first_seen": "2026-08-28T15:16:36.503Z"
             }
           ],
           "description": null,
@@ -235,11 +247,12 @@
                 "archived": false,
                 "id": 82095231,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T16:38:43Z",
+                "last_commit": "2026-08-28T00:38:25Z",
                 "owner": "stenciljs",
                 "repo": "core",
                 "stars": 13126
-              }
+              },
+              "first_seen": "2026-08-28T15:16:36.503Z"
             },
             {
               "node_type": "item",
@@ -254,7 +267,8 @@
                 "owner": "adaleks",
                 "repo": "anywhere-ui",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T15:16:36.503Z"
             }
           ],
           "description": null,
@@ -276,7 +290,8 @@
                 "owner": "darshanmarathe",
                 "repo": "componentForge",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T15:16:36.503Z"
             }
           ],
           "description": null,
@@ -294,11 +309,12 @@
                 "archived": false,
                 "id": 79723839,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T13:28:40Z",
+                "last_commit": "2026-08-28T15:10:45Z",
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18463
-              }
+                "stars": 18465
+              },
+              "first_seen": "2026-08-28T15:16:36.503Z"
             }
           ],
           "description": null,
@@ -320,7 +336,8 @@
                 "owner": "outpostHQ",
                 "repo": "numl",
                 "stars": 340
-              }
+              },
+              "first_seen": "2026-08-28T15:16:36.503Z"
             }
           ],
           "description": null,
@@ -342,7 +359,8 @@
                 "owner": "Polight",
                 "repo": "lego",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-28T15:16:36.503Z"
             }
           ],
           "description": null,
@@ -368,7 +386,8 @@
             "owner": "github",
             "repo": "relative-time-element",
             "stars": 4020
-          }
+          },
+          "first_seen": "2026-08-28T15:16:36.503Z"
         },
         {
           "node_type": "item",
@@ -382,8 +401,9 @@
             "last_commit": "2026-08-21T23:48:05Z",
             "owner": "muxinc",
             "repo": "media-chrome",
-            "stars": 2729
-          }
+            "stars": 2731
+          },
+          "first_seen": "2026-08-28T15:16:36.503Z"
         },
         {
           "node_type": "item",
@@ -398,7 +418,8 @@
             "owner": "erikringsmuth",
             "repo": "app-router",
             "stars": 607
-          }
+          },
+          "first_seen": "2026-08-28T15:16:36.503Z"
         },
         {
           "node_type": "item",
@@ -413,7 +434,8 @@
             "owner": "muxinc",
             "repo": "elements",
             "stars": 363
-          }
+          },
+          "first_seen": "2026-08-28T15:16:36.503Z"
         },
         {
           "node_type": "item",
@@ -428,7 +450,8 @@
             "owner": "breakzplatform",
             "repo": "responsive-embed",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T15:16:36.503Z"
         },
         {
           "node_type": "item",
@@ -443,7 +466,8 @@
             "owner": "Frameright",
             "repo": "image-display-control-web-component",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T15:16:36.503Z"
         }
       ],
       "title": "Components"
@@ -469,7 +493,8 @@
                 "owner": "webcomponents",
                 "repo": "hello-world-element",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T15:16:36.503Z"
             },
             {
               "node_type": "item",
@@ -484,7 +509,8 @@
                 "owner": "webcomponents",
                 "repo": "hello-world-polymer",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T15:16:36.503Z"
             },
             {
               "node_type": "item",
@@ -499,7 +525,8 @@
                 "owner": "webcomponents",
                 "repo": "hello-world-xtag",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T15:16:36.503Z"
             }
           ]
         },
@@ -521,7 +548,8 @@
                 "owner": "webcomponents",
                 "repo": "polymer-boilerplate",
                 "stars": 369
-              }
+              },
+              "first_seen": "2026-08-28T15:16:36.503Z"
             },
             {
               "node_type": "item",
@@ -536,7 +564,8 @@
                 "owner": "webcomponents",
                 "repo": "element-boilerplate",
                 "stars": 275
-              }
+              },
+              "first_seen": "2026-08-28T15:16:36.503Z"
             },
             {
               "node_type": "item",
@@ -551,7 +580,8 @@
                 "owner": "webcomponents",
                 "repo": "xtag-boilerplate",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T15:16:36.503Z"
             }
           ]
         }
@@ -560,7 +590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:05:36.048Z",
+    "last_updated": "2026-08-28T15:16:36.503Z",
     "original_repository_info": {
       "archived": false,
       "id": 34875393,
