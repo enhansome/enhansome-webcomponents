@@ -10,12 +10,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Moved to Polymer/tools monorepo ",
+            "homepage": "https://github.com/Polymer/tools/tree/master/packages/bundler",
             "id": 13599100,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2018-04-09T22:06:11Z",
+            "open_issues": 0,
             "owner": "Polymer",
             "repo": "polymer-bundler",
-            "stars": 1191
+            "stars": 1191,
+            "topics": [
+              "polymer",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T15:16:36.503Z"
         },
@@ -26,12 +34,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Moved to Polymer/tools monorepo",
+            "homepage": "https://github.com/Polymer/tools/tree/master/packages/web-component-tester",
             "id": 23168206,
             "language": "TypeScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-20T05:11:15Z",
+            "open_issues": 28,
             "owner": "Polymer",
             "repo": "web-component-tester",
-            "stars": 564
+            "stars": 564,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:36.503Z"
         },
@@ -42,12 +55,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yeoman generator to create Custom Elements using Polymer, X-Tag or VanillaJS",
+            "homepage": "https://npmjs.org/generator-element",
             "id": 17056525,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-12-31T16:14:23Z",
+            "open_issues": 1,
             "owner": "deprecate",
             "repo": "generator-element",
-            "stars": 131
+            "stars": 131,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:36.503Z"
         },
@@ -58,12 +76,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Slush generator to create Custom Elements using Polymer, X-Tag or VanillaJS",
+            "homepage": "https://npmjs.org/slush-element  ",
             "id": 20281541,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-10-28T10:30:21Z",
+            "open_issues": 0,
             "owner": "webcomponents",
             "repo": "slush-element",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:36.503Z"
         }
@@ -82,12 +105,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Scaffold out a Polymer project",
+                "homepage": "http://polymer-project.org",
                 "id": 11635422,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-02-13T17:34:30Z",
+                "open_issues": 14,
                 "owner": "yeoman",
                 "repo": "generator-polymer",
-                "stars": 912
+                "stars": 912,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:16:36.503Z"
             },
@@ -98,12 +126,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of awesome Polymer resources.",
+                "homepage": null,
                 "id": 33659483,
                 "language": null,
+                "license": null,
                 "last_commit": "2018-03-21T18:52:01Z",
+                "open_issues": 0,
                 "owner": "Granze",
                 "repo": "awesome-polymer",
-                "stars": 401
+                "stars": 401,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "custom-elements",
+                  "list",
+                  "polymer",
+                  "polymer-apps",
+                  "polymer-element",
+                  "polymer-resources",
+                  "shadowdom",
+                  "webcomponents"
+                ]
               },
               "first_seen": "2026-08-28T15:16:36.503Z"
             },
@@ -114,12 +158,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sublime snippets for Polymer and Web Components",
+                "homepage": null,
                 "id": 17389214,
                 "language": null,
+                "license": null,
                 "last_commit": "2018-02-04T11:01:14Z",
+                "open_issues": 8,
                 "owner": "robdodson",
                 "repo": "PolymerSnippets",
-                "stars": 219
+                "stars": 219,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:16:36.503Z"
             }
@@ -137,12 +186,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast & Robust Front-End Micro-framework based on modern standards",
+                "homepage": "http://slimjs.com",
                 "id": 69333096,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2023-09-06T15:36:01Z",
+                "open_issues": 14,
                 "owner": "slimjs",
                 "repo": "slim.js",
-                "stars": 1036
+                "stars": 1036,
+                "topics": [
+                  "angular",
+                  "aurelia",
+                  "data-binding",
+                  "dom",
+                  "es6",
+                  "framework",
+                  "front-end",
+                  "front-end-development",
+                  "html-element",
+                  "html5",
+                  "javascript",
+                  "library",
+                  "lifecycle",
+                  "native",
+                  "react",
+                  "slimjs",
+                  "vuejs",
+                  "webcomponents"
+                ]
               },
               "first_seen": "2026-08-28T15:16:36.503Z"
             }
@@ -160,12 +233,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Plain functions for a more functional Deku approach to creating stateless React components, with functional goodies such as compose, memoize, etc... for free.",
+                "homepage": "http://keo-app.herokuapp.com/",
                 "id": 44556469,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-01-24T22:39:42Z",
+                "open_issues": 17,
                 "owner": "Wildhoney",
                 "repo": "Keo",
-                "stars": 227
+                "stars": 227,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:16:36.503Z"
             },
@@ -176,12 +254,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create framework agnostic components that are truly reusable and interoperable with all the benefits of the React ecosystem – using the HTML5 custom elements API to extend HTML's vocabulary.",
+                "homepage": "http://react-standalone.herokuapp.com/",
                 "id": 55620680,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2016-09-26T14:02:11Z",
+                "open_issues": 4,
                 "owner": "Wildhoney",
                 "repo": "Standalone",
-                "stars": 207
+                "stars": 207,
+                "topics": [
+                  "components",
+                  "custom-elements",
+                  "react",
+                  "reactjs",
+                  "webcomponents"
+                ]
               },
               "first_seen": "2026-08-28T15:16:36.503Z"
             }
@@ -199,12 +288,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Effortless custom elements powered by modern view libraries.",
+                "homepage": "http://skatejs.netlify.com/",
                 "id": 16425042,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-02-26T01:34:54Z",
+                "open_issues": 30,
                 "owner": "skatejs",
                 "repo": "skatejs",
-                "stars": 3271
+                "stars": 3271,
+                "topics": [
+                  "javascript",
+                  "reactiveui",
+                  "web-components"
+                ]
               },
               "first_seen": "2026-08-28T15:16:36.503Z"
             }
@@ -222,12 +320,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🇨🇭Switzerland takes a functional approach to Web Components by applying middleware to your components. Supports Redux, attribute mutations, CSS variables, React-esque setState/state, etc… out-of-the-box, along with Shadow DOM for style encapsulation and Custom Elements for interoperability.",
+                "homepage": "https://switzerland.herokuapp.com/",
                 "id": 68638095,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-09-27T00:25:56Z",
+                "open_issues": 2,
                 "owner": "Wildhoney",
                 "repo": "Switzerland",
-                "stars": 265
+                "stars": 265,
+                "topics": [
+                  "component",
+                  "component-architecture",
+                  "components",
+                  "css-variables",
+                  "custom-elements",
+                  "encapsulation",
+                  "frontend",
+                  "functional",
+                  "functional-programming",
+                  "html5",
+                  "immutable",
+                  "interoperability",
+                  "javascript",
+                  "middleware",
+                  "redux",
+                  "shadow-dom",
+                  "state-management",
+                  "virtual-dom",
+                  "web-components",
+                  "webcomponents"
+                ]
               },
               "first_seen": "2026-08-28T15:16:36.503Z"
             }
@@ -245,12 +369,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A toolchain for building scalable, enterprise-ready component systems on top of TypeScript and Web Component standards. Stencil components can be distributed natively to React, Angular, Vue, (+ more) and traditional web applications from a single, framework-agnostic codebase.",
+                "homepage": "https://stenciljs.com",
                 "id": 82095231,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T00:38:25Z",
+                "open_issues": 177,
                 "owner": "stenciljs",
                 "repo": "core",
-                "stars": 13126
+                "stars": 13126,
+                "topics": [
+                  "custom-element",
+                  "design-system",
+                  "ionic",
+                  "ssg",
+                  "ssr",
+                  "static-site-generator",
+                  "stencil",
+                  "stenciljs",
+                  "typescript",
+                  "webcomponent"
+                ]
               },
               "first_seen": "2026-08-28T15:16:36.503Z"
             },
@@ -261,12 +401,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " AnywhereUI is a collection of rich web components that includes framework bindings, created with StencilJS",
+                "homepage": "https://adaleks.github.io/anywhere-ui-showcase-production",
                 "id": 417591966,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-06-06T19:38:21Z",
+                "open_issues": 3,
                 "owner": "adaleks",
                 "repo": "anywhere-ui",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "angular",
+                  "anywhere",
+                  "awesome",
+                  "components",
+                  "custom-element",
+                  "custom-elements",
+                  "javascript",
+                  "popular",
+                  "react",
+                  "shadow-dom",
+                  "stencil-js",
+                  "stenciljs",
+                  "stenciljs-components",
+                  "typescript",
+                  "ui",
+                  "ui-components",
+                  "vue",
+                  "web-component",
+                  "web-components",
+                  "web-components-library"
+                ]
               },
               "first_seen": "2026-08-28T15:16:36.503Z"
             }
@@ -284,12 +450,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "componentForge",
+                "homepage": null,
                 "id": 544693746,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2023-10-24T17:42:53Z",
+                "open_issues": 1,
                 "owner": "darshanmarathe",
                 "repo": "componentForge",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:16:36.503Z"
             }
@@ -307,12 +478,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI-powered development workspaces with reusable components, architectural clarity and zero overhead.",
+                "homepage": "https://bit.dev",
                 "id": 79723839,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T15:10:45Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T22:30:27Z",
+                "open_issues": 86,
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18465
+                "stars": 18466,
+                "topics": [
+                  "ai",
+                  "collaboration",
+                  "component-driven",
+                  "composable",
+                  "composable-architecture",
+                  "distributed",
+                  "front-end",
+                  "javascript",
+                  "micro-frontend",
+                  "micro-services",
+                  "monorepo",
+                  "multirepo",
+                  "multirepo-maintenance",
+                  "node-js",
+                  "polyrepo",
+                  "react",
+                  "service-oriented-architecture",
+                  "typescript",
+                  "vue"
+                ]
               },
               "first_seen": "2026-08-28T15:16:36.503Z"
             }
@@ -330,12 +526,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DEPRECATED: Atomic UI Framework based on Web Components and Runtime CSS Generation for rapidly building interfaces that follow your Design System 🌈DE",
+                "homepage": "https://numl.tenphi.me",
                 "id": 192300696,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-04-01T10:47:58Z",
+                "open_issues": 24,
                 "owner": "outpostHQ",
                 "repo": "numl",
-                "stars": 340
+                "stars": 340,
+                "topics": [
+                  "css-framework",
+                  "css-generator",
+                  "designsystem",
+                  "element-collection",
+                  "framework",
+                  "functional-css",
+                  "markup-language",
+                  "responsive",
+                  "themes",
+                  "ui-components",
+                  "uikit",
+                  "utility-classes",
+                  "web-components"
+                ]
               },
               "first_seen": "2026-08-28T15:16:36.503Z"
             }
@@ -353,12 +568,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚀 Low-Tech Web-Components Made Lightweight & Future-Proof.",
+                "homepage": "https://lego.js.org",
                 "id": 157021511,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-16T14:06:45Z",
+                "open_issues": 11,
                 "owner": "Polight",
                 "repo": "lego",
-                "stars": 149
+                "stars": 149,
+                "topics": [
+                  "custom-elements",
+                  "customelements",
+                  "dom",
+                  "es7",
+                  "frontend",
+                  "future-proof",
+                  "html-modules",
+                  "javascript",
+                  "js-modules",
+                  "native",
+                  "polymer",
+                  "reactive",
+                  "reactjs",
+                  "vanilla-js",
+                  "virtual-dom",
+                  "vuejs",
+                  "w3c",
+                  "web-components",
+                  "web-standards",
+                  "webcomponents"
+                ]
               },
               "first_seen": "2026-08-28T15:16:36.503Z"
             }
@@ -380,12 +621,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web component extensions to the standard <time> element.",
+            "homepage": "https://github.github.io/relative-time-element/examples/",
             "id": 19039693,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T06:53:06Z",
+            "open_issues": 21,
             "owner": "github",
             "repo": "relative-time-element",
-            "stars": 4020
+            "stars": 4020,
+            "topics": [
+              "custom-elements",
+              "keep",
+              "localization",
+              "timezone",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T15:16:36.503Z"
         },
@@ -396,12 +648,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom elements (web components) for making audio and video player controls that look great in your website or app.",
+            "homepage": "https://media-chrome.org",
             "id": 208394975,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-21T23:48:05Z",
+            "open_issues": 9,
             "owner": "muxinc",
             "repo": "media-chrome",
-            "stars": 2731
+            "stars": 2732,
+            "topics": [
+              "audio",
+              "audio-player",
+              "media-chrome",
+              "mux",
+              "ui-components",
+              "video",
+              "video-player",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T15:16:36.503Z"
         },
@@ -412,12 +678,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Router for Web Components",
+            "homepage": "https://erikringsmuth.github.io/app-router/",
             "id": 21885551,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2018-01-12T17:29:18Z",
+            "open_issues": 52,
             "owner": "erikringsmuth",
             "repo": "app-router",
-            "stars": 607
+            "stars": 607,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:36.503Z"
         },
@@ -428,12 +699,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom elements for working with media in the browser that Just Work™",
+            "homepage": "https://elements-demo-nextjs.vercel.app",
             "id": 395097869,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-23T23:04:35Z",
+            "open_issues": 12,
             "owner": "muxinc",
             "repo": "elements",
-            "stars": 363
+            "stars": 363,
+            "topics": [
+              "audio",
+              "audio-player",
+              "html5",
+              "media-chrome",
+              "react",
+              "video",
+              "video-player",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T15:16:36.503Z"
         },
@@ -444,12 +729,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":tv: A Polymer element for responsive embeds",
+            "homepage": "http://joselito.pw/responsive-embed",
             "id": 23636610,
             "language": "HTML",
+            "license": null,
             "last_commit": "2016-02-04T03:45:17Z",
+            "open_issues": 0,
             "owner": "breakzplatform",
             "repo": "responsive-embed",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:16:36.503Z"
         },
@@ -460,12 +750,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 Next-gen responsive <img>",
+            "homepage": "https://webc.frameright.io",
             "id": 566933482,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-05-10T14:45:24Z",
+            "open_issues": 14,
             "owner": "Frameright",
             "repo": "image-display-control-web-component",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "frameright",
+              "image",
+              "image-display-control",
+              "image-manipulation",
+              "image-publishing",
+              "iptc-metadata",
+              "metadata",
+              "metadata-extraction",
+              "metadata-parser",
+              "responsive-design",
+              "responsive-images",
+              "responsive-layout",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T15:16:36.503Z"
         }
@@ -487,12 +796,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Web Component example using VanillaJS",
+                "homepage": "http://webcomponents.github.io/hello-world-element",
                 "id": 18499758,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2018-11-15T08:03:59Z",
+                "open_issues": 3,
                 "owner": "webcomponents",
                 "repo": "hello-world-element",
-                "stars": 151
+                "stars": 151,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:16:36.503Z"
             },
@@ -503,12 +817,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Web Component example using Polymer",
+                "homepage": "http://webcomponents.github.io/hello-world-polymer",
                 "id": 18499761,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2018-08-12T19:40:05Z",
+                "open_issues": 0,
                 "owner": "webcomponents",
                 "repo": "hello-world-polymer",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:16:36.503Z"
             },
@@ -519,12 +838,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Web Component example using X-Tag",
+                "homepage": "http://webcomponents.github.io/hello-world-xtag",
                 "id": 18499722,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2017-04-10T04:48:21Z",
+                "open_issues": 0,
                 "owner": "webcomponents",
                 "repo": "hello-world-xtag",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:16:36.503Z"
             }
@@ -542,12 +866,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Fork this repo if you want to start your own Web Component using Polymer",
+                "homepage": null,
                 "id": 12218029,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2015-07-07T21:59:16Z",
+                "open_issues": 1,
                 "owner": "webcomponents",
                 "repo": "polymer-boilerplate",
-                "stars": 369
+                "stars": 369,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:16:36.503Z"
             },
@@ -558,12 +887,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Fork this repo if you want to start your own Web Component using VanillaJS",
+                "homepage": null,
                 "id": 18086815,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2020-02-12T00:02:13Z",
+                "open_issues": 6,
                 "owner": "webcomponents",
                 "repo": "element-boilerplate",
-                "stars": 275
+                "stars": 275,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:16:36.503Z"
             },
@@ -574,12 +908,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Fork this repo if you want to start your own Web Component using X-Tag",
+                "homepage": null,
                 "id": 17183552,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2015-05-28T21:59:41Z",
+                "open_issues": 0,
                 "owner": "webcomponents",
                 "repo": "xtag-boilerplate",
-                "stars": 50
+                "stars": 50,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:16:36.503Z"
             }
@@ -590,15 +929,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:16:36.503Z",
+    "last_updated": "2026-08-29T04:37:59.289Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Web Components tools, articles and resources.",
+      "homepage": null,
       "id": 34875393,
       "language": null,
+      "license": null,
       "last_commit": "2024-01-15T14:50:26Z",
+      "open_issues": 2,
       "owner": "obetomuniz",
       "repo": "awesome-webcomponents",
-      "stars": 646
+      "stars": 646,
+      "topics": [
+        "awesome-list",
+        "webcomponents"
+      ]
     },
     "original_repository_sha": "9c8550ed278a970006ef67c023e2d473e4912cf0",
     "enhanced_repository": "enhansome/enhansome-webcomponents",
