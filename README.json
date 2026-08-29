@@ -378,7 +378,7 @@
                 "open_issues": 177,
                 "owner": "stenciljs",
                 "repo": "core",
-                "stars": 13126,
+                "stars": 13127,
                 "topics": [
                   "custom-element",
                   "design-system",
@@ -654,7 +654,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-21T23:48:05Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "muxinc",
             "repo": "media-chrome",
             "stars": 2732,
@@ -929,7 +929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:37:59.289Z",
+    "last_updated": "2026-08-29T09:59:12.119Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Components tools, articles and resources.",
