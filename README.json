@@ -374,8 +374,8 @@
                 "id": 82095231,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T00:38:25Z",
-                "open_issues": 177,
+                "last_commit": "2026-08-29T18:45:16Z",
+                "open_issues": 176,
                 "owner": "stenciljs",
                 "repo": "core",
                 "stars": 13127,
@@ -483,8 +483,8 @@
                 "id": 79723839,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T22:30:27Z",
-                "open_issues": 86,
+                "last_commit": "2026-08-30T08:52:46Z",
+                "open_issues": 88,
                 "owner": "teambit",
                 "repo": "bit",
                 "stars": 18466,
@@ -654,10 +654,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-21T23:48:05Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "muxinc",
             "repo": "media-chrome",
-            "stars": 2732,
+            "stars": 2734,
             "topics": [
               "audio",
               "audio-player",
@@ -929,7 +929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T09:59:12.119Z",
+    "last_updated": "2026-08-30T09:09:46.404Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Components tools, articles and resources.",

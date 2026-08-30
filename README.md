@@ -243,7 +243,7 @@ A curated list of awesome Web Components tools, articles and resources.
 
 ### Stencil.js
 
-* [Git repository](https://github.com/ionic-team/stencil) ⭐ 13,127 | 🐛 177 | 🌐 TypeScript | 📅 2026-08-28
+* [Git repository](https://github.com/ionic-team/stencil) ⭐ 13,127 | 🐛 176 | 🌐 TypeScript | 📅 2026-08-29
 * [AnywhereUI](https://github.com/adaleks/anywhere-ui) ⭐ 38 | 🐛 3 | 🌐 TypeScript | 📅 2024-06-06
 * [Stencil.js site](https://stenciljs.com/)
 
@@ -256,7 +256,7 @@ A curated list of awesome Web Components tools, articles and resources.
 
 ### Bit
 
-* [Bit](https://github.com/teambit/bit) ⭐ 18,466 | 🐛 86 | 🌐 TypeScript | 📅 2026-08-28 component development, reuse and collaboration tool
+* [Bit](https://github.com/teambit/bit) ⭐ 18,466 | 🐛 88 | 🌐 TypeScript | 📅 2026-08-30 component development, reuse and collaboration tool
 
 ### NuML
 
@@ -273,7 +273,7 @@ A curated list of awesome Web Components tools, articles and resources.
 *Some Web Components*
 
 * [Github Time Elements](https://github.com/github/time-elements) ⭐ 4,020 | 🐛 21 | 🌐 JavaScript | 📅 2026-08-27 by GitHub.
-* [Media Chrome (Custom Elements for Media UIs)](https://github.com/muxinc/media-chrome) ⭐ 2,732 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-21 by Mux, Inc.
+* [Media Chrome (Custom Elements for Media UIs)](https://github.com/muxinc/media-chrome) ⭐ 2,734 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-21 by Mux, Inc.
 * [Router Manager](https://github.com/erikringsmuth/app-router) ⭐ 607 | 🐛 52 | 🌐 HTML | 📅 2018-01-12 by Erik Ringsmuth.
 * [Mux Open Elements (Custom Elements for Media)](https://github.com/muxinc/elements) ⭐ 363 | 🐛 12 | 🌐 TypeScript | 📅 2026-07-23 by Mux, Inc.
 * [Responsive Embed](https://github.com/joselitojunior/responsive-embed) ⭐ 33 | 🐛 0 | 🌐 HTML | 📅 2016-02-04 by Joselito Júnior
@@ -331,8 +331,8 @@ Your contributions are always welcome!
 
 ## Inspiration
 
-This list was inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 182,576 | 🐛 219 | 🌐 Go | 📅 2026-08-29 and [awesome-python](https://github.com/avelino/awesome-python).
+This list was inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 182,676 | 🐛 220 | 🌐 Go | 📅 2026-08-30 and [awesome-python](https://github.com/avelino/awesome-python).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
