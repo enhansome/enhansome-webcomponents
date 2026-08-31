@@ -219,7 +219,7 @@ A curated list of awesome Web Components tools, articles and resources.
 
 ### SkateJS
 
-* [SkateJS Repo](https://github.com/skatejs/skatejs) ⭐ 3,271 | 🐛 30 | 🌐 JavaScript | 📅 2022-02-26
+* [SkateJS Repo](https://github.com/skatejs/skatejs) ⭐ 3,270 | 🐛 30 | 🌐 JavaScript | 📅 2022-02-26
 
 ### Aurelia
 
@@ -243,7 +243,7 @@ A curated list of awesome Web Components tools, articles and resources.
 
 ### Stencil.js
 
-* [Git repository](https://github.com/ionic-team/stencil) ⭐ 13,127 | 🐛 176 | 🌐 TypeScript | 📅 2026-08-29
+* [Git repository](https://github.com/ionic-team/stencil) ⭐ 13,126 | 🐛 177 | 🌐 TypeScript | 📅 2026-08-30
 * [AnywhereUI](https://github.com/adaleks/anywhere-ui) ⭐ 38 | 🐛 3 | 🌐 TypeScript | 📅 2024-06-06
 * [Stencil.js site](https://stenciljs.com/)
 
@@ -256,7 +256,7 @@ A curated list of awesome Web Components tools, articles and resources.
 
 ### Bit
 
-* [Bit](https://github.com/teambit/bit) ⭐ 18,466 | 🐛 88 | 🌐 TypeScript | 📅 2026-08-30 component development, reuse and collaboration tool
+* [Bit](https://github.com/teambit/bit) ⭐ 18,468 | 🐛 87 | 🌐 TypeScript | 📅 2026-08-30 component development, reuse and collaboration tool
 
 ### NuML
 
@@ -331,8 +331,8 @@ Your contributions are always welcome!
 
 ## Inspiration
 
-This list was inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 182,676 | 🐛 220 | 🌐 Go | 📅 2026-08-30 and [awesome-python](https://github.com/avelino/awesome-python).
+This list was inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 182,752 | 🐛 221 | 🌐 Go | 📅 2026-08-31 and [awesome-python](https://github.com/avelino/awesome-python).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
