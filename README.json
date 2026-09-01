@@ -483,11 +483,11 @@
                 "id": 79723839,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-30T17:25:02Z",
+                "last_commit": "2026-09-01T04:03:09Z",
                 "open_issues": 87,
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18468,
+                "stars": 18469,
                 "topics": [
                   "ai",
                   "collaboration",
@@ -630,7 +630,7 @@
             "open_issues": 21,
             "owner": "github",
             "repo": "relative-time-element",
-            "stars": 4020,
+            "stars": 4019,
             "topics": [
               "custom-elements",
               "keep",
@@ -929,7 +929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T09:38:35.846Z",
+    "last_updated": "2026-09-01T08:34:25.447Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Components tools, articles and resources.",
