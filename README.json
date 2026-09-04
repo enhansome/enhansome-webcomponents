@@ -297,7 +297,7 @@
                 "open_issues": 30,
                 "owner": "skatejs",
                 "repo": "skatejs",
-                "stars": 3270,
+                "stars": 3269,
                 "topics": [
                   "javascript",
                   "reactiveui",
@@ -374,11 +374,11 @@
                 "id": 82095231,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T23:06:01Z",
-                "open_issues": 181,
+                "last_commit": "2026-09-03T22:29:24Z",
+                "open_issues": 178,
                 "owner": "stenciljs",
                 "repo": "core",
-                "stars": 13127,
+                "stars": 13129,
                 "topics": [
                   "custom-element",
                   "design-system",
@@ -483,11 +483,11 @@
                 "id": 79723839,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T21:21:57Z",
+                "last_commit": "2026-09-03T20:35:30Z",
                 "open_issues": 67,
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18471,
+                "stars": 18472,
                 "topics": [
                   "ai",
                   "collaboration",
@@ -630,7 +630,7 @@
             "open_issues": 21,
             "owner": "github",
             "repo": "relative-time-element",
-            "stars": 4030,
+            "stars": 4031,
             "topics": [
               "custom-elements",
               "keep",
@@ -929,7 +929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T07:59:05.101Z",
+    "last_updated": "2026-09-04T07:55:29.924Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Components tools, articles and resources.",
