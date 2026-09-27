@@ -272,7 +272,7 @@ A curated list of awesome Web Components tools, articles and resources.
 
 *Some Web Components*
 
-* [Github Time Elements](https://github.com/github/time-elements) ⭐ 4,036 | 🐛 22 | 🌐 JavaScript | 📅 2026-09-14 by GitHub.
+* [Github Time Elements](https://github.com/github/time-elements) ⭐ 4,036 | 🐛 23 | 🌐 JavaScript | 📅 2026-09-14 by GitHub.
 * [Media Chrome (Custom Elements for Media UIs)](https://github.com/muxinc/media-chrome) ⭐ 2,750 | 🐛 11 | 🌐 TypeScript | 📅 2026-09-25 by Mux, Inc.
 * [Router Manager](https://github.com/erikringsmuth/app-router) ⭐ 605 | 🐛 52 | 🌐 HTML | 📅 2018-01-12 by Erik Ringsmuth.
 * [Mux Open Elements (Custom Elements for Media)](https://github.com/muxinc/elements) ⭐ 364 | 🐛 15 | 🌐 TypeScript | 📅 2026-09-24 by Mux, Inc.
@@ -331,8 +331,8 @@ Your contributions are always welcome!
 
 ## Inspiration
 
-This list was inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 185,636 | 🐛 229 | 🌐 Go | 📅 2026-09-25 and [awesome-python](https://github.com/avelino/awesome-python).
+This list was inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 185,795 | 🐛 229 | 🌐 Go | 📅 2026-09-27 and [awesome-python](https://github.com/avelino/awesome-python).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
