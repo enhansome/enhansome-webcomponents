@@ -209,7 +209,7 @@ A curated list of awesome Web Components tools, articles and resources.
 
 ### Slim-JS
 
-* [Git repository](https://github.com/eavichay/slim.js) ⭐ 1,036 | 🐛 14 | 🌐 CSS | 📅 2023-09-06
+* [Git repository](https://github.com/eavichay/slim.js) ⭐ 1,037 | 🐛 14 | 🌐 CSS | 📅 2023-09-06
 * [Slim-JS Documentation](http://slimjs.com)
 
 ### ReactJS
@@ -243,7 +243,7 @@ A curated list of awesome Web Components tools, articles and resources.
 
 ### Stencil.js
 
-* [Git repository](https://github.com/ionic-team/stencil) ⭐ 13,132 | 🐛 181 | 🌐 TypeScript | 📅 2026-09-24
+* [Git repository](https://github.com/ionic-team/stencil) ⭐ 13,134 | 🐛 181 | 🌐 TypeScript | 📅 2026-09-24
 * [AnywhereUI](https://github.com/adaleks/anywhere-ui) ⭐ 38 | 🐛 3 | 🌐 TypeScript | 📅 2024-06-06
 * [Stencil.js site](https://stenciljs.com/)
 
@@ -331,8 +331,8 @@ Your contributions are always welcome!
 
 ## Inspiration
 
-This list was inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 185,795 | 🐛 229 | 🌐 Go | 📅 2026-09-27 and [awesome-python](https://github.com/avelino/awesome-python).
+This list was inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 185,947 | 🐛 230 | 🌐 Go | 📅 2026-09-27 and [awesome-python](https://github.com/avelino/awesome-python).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._

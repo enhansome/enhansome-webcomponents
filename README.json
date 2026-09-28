@@ -195,7 +195,7 @@
                 "open_issues": 14,
                 "owner": "slimjs",
                 "repo": "slim.js",
-                "stars": 1036,
+                "stars": 1037,
                 "topics": [
                   "angular",
                   "aurelia",
@@ -378,7 +378,7 @@
                 "open_issues": 181,
                 "owner": "stenciljs",
                 "repo": "core",
-                "stars": 13132,
+                "stars": 13134,
                 "topics": [
                   "custom-element",
                   "design-system",
@@ -929,7 +929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T09:10:40.913Z",
+    "last_updated": "2026-09-28T09:39:52.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Components tools, articles and resources.",
