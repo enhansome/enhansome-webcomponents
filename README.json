@@ -101,7 +101,7 @@
             {
               "node_type": "item",
               "title": "Polymer Generator for Yeoman",
-              "description": ".",
+              "description": "yeoman/generator-polymer",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -182,7 +182,7 @@
             {
               "node_type": "item",
               "title": "Git repository",
-              "description": null,
+              "description": "slimjs/slim.js",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -195,7 +195,7 @@
                 "open_issues": 14,
                 "owner": "slimjs",
                 "repo": "slim.js",
-                "stars": 1037,
+                "stars": 1038,
                 "topics": [
                   "angular",
                   "aurelia",
@@ -284,7 +284,7 @@
             {
               "node_type": "item",
               "title": "SkateJS Repo",
-              "description": null,
+              "description": "skatejs/skatejs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -316,7 +316,7 @@
             {
               "node_type": "item",
               "title": "Switzerland",
-              "description": null,
+              "description": "Wildhoney/Switzerland",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -365,7 +365,7 @@
             {
               "node_type": "item",
               "title": "Git repository",
-              "description": null,
+              "description": "stenciljs/core",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -374,11 +374,11 @@
                 "id": 82095231,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T22:39:58Z",
+                "last_commit": "2026-10-02T21:26:13Z",
                 "open_issues": 178,
                 "owner": "stenciljs",
                 "repo": "core",
-                "stars": 13134,
+                "stars": 13135,
                 "topics": [
                   "custom-element",
                   "design-system",
@@ -397,7 +397,7 @@
             {
               "node_type": "item",
               "title": "AnywhereUI",
-              "description": null,
+              "description": "adaleks/anywhere-ui",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -446,7 +446,7 @@
             {
               "node_type": "item",
               "title": "Git repository",
-              "description": null,
+              "description": "darshanmarathe/componentForge",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -483,11 +483,11 @@
                 "id": 79723839,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T20:02:45Z",
-                "open_issues": 77,
+                "last_commit": "2026-10-03T00:03:36Z",
+                "open_issues": 76,
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18492,
+                "stars": 18493,
                 "topics": [
                   "ai",
                   "collaboration",
@@ -522,7 +522,7 @@
             {
               "node_type": "item",
               "title": "NuML repository",
-              "description": null,
+              "description": "outpostHQ/numl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -564,7 +564,7 @@
             {
               "node_type": "item",
               "title": "Lego repository",
-              "description": null,
+              "description": "Polight/lego",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -704,8 +704,8 @@
             "id": 395097869,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T19:30:41Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-02T20:55:55Z",
+            "open_issues": 14,
             "owner": "muxinc",
             "repo": "elements",
             "stars": 364,
@@ -792,7 +792,7 @@
             {
               "node_type": "item",
               "title": "Using VanillaJS",
-              "description": ".",
+              "description": "webcomponents/hello-world-element",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -813,7 +813,7 @@
             {
               "node_type": "item",
               "title": "Using Polymer",
-              "description": ".",
+              "description": "webcomponents/hello-world-polymer",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -834,7 +834,7 @@
             {
               "node_type": "item",
               "title": "Using X-Tags",
-              "description": ".",
+              "description": "webcomponents/hello-world-xtag",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -862,7 +862,7 @@
             {
               "node_type": "item",
               "title": "Using Polymer",
-              "description": ".",
+              "description": "webcomponents/polymer-boilerplate",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -883,7 +883,7 @@
             {
               "node_type": "item",
               "title": "Using VanillaJS",
-              "description": ".",
+              "description": "webcomponents/element-boilerplate",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -904,7 +904,7 @@
             {
               "node_type": "item",
               "title": "Using X-Tags",
-              "description": ".",
+              "description": "webcomponents/xtag-boilerplate",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -929,7 +929,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:40:05.644Z",
+    "last_updated": "2026-10-03T05:13:14.389Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Components tools, articles and resources.",
