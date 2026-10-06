@@ -331,7 +331,7 @@ Your contributions are always welcome!
 
 ## Inspiration
 
-This list was inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 187,176 | 🐛 67 | 🌐 Go | 📅 2026-10-06 and [awesome-python](https://github.com/avelino/awesome-python).
+This list was inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 187,185 | 🐛 67 | 🌐 Go | 📅 2026-10-06 and [awesome-python](https://github.com/avelino/awesome-python).
 
 ***
 
