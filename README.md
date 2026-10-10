@@ -156,7 +156,7 @@ A curated list of awesome Web Components tools, articles and resources.
 *Some web tools related to Web Components*
 
 * [Vulcanize](https://github.com/Polymer/vulcanize) ⚠️ Archived by Polymer Project.
-* [Web Components Tester](https://github.com/Polymer/web-component-tester) ⭐ 564 | 🐛 28 | 🌐 TypeScript | 📅 2026-06-20 by Polymer Project.
+* [Web Components Tester](https://github.com/Polymer/web-component-tester) ⭐ 563 | 🐛 28 | 🌐 TypeScript | 📅 2026-06-20 by Polymer Project.
 * [Element Generator for Yeoman](https://github.com/webcomponents/generator-element) ⭐ 130 | 🐛 1 | 🌐 JavaScript | 📅 2021-12-31 by WebComponents.org.
 * [Element Generator for Slush](https://github.com/webcomponents/slush-element) ⚠️ Archived by WebComponents.org.
 * [WebComponents.dev](https://webcomponents.dev/) — in-browser IDE to code web components in isolation with 58 templates available, supporting stories and tests.
@@ -243,7 +243,7 @@ A curated list of awesome Web Components tools, articles and resources.
 
 ### Stencil.js
 
-* [Git repository](https://github.com/ionic-team/stencil) ⭐ 13,136 | 🐛 182 | 🌐 TypeScript | 📅 2026-10-08
+* [Git repository](https://github.com/ionic-team/stencil) ⭐ 13,136 | 🐛 183 | 🌐 TypeScript | 📅 2026-10-09
 * [AnywhereUI](https://github.com/adaleks/anywhere-ui) ⭐ 38 | 🐛 3 | 🌐 TypeScript | 📅 2024-06-06
 * [Stencil.js site](https://stenciljs.com/)
 
@@ -256,7 +256,7 @@ A curated list of awesome Web Components tools, articles and resources.
 
 ### Bit
 
-* [Bit](https://github.com/teambit/bit) ⭐ 18,494 | 🐛 77 | 🌐 TypeScript | 📅 2026-10-09 component development, reuse and collaboration tool
+* [Bit](https://github.com/teambit/bit) ⭐ 18,495 | 🐛 77 | 🌐 TypeScript | 📅 2026-10-10 component development, reuse and collaboration tool
 
 ### NuML
 
@@ -275,7 +275,7 @@ A curated list of awesome Web Components tools, articles and resources.
 * [Github Time Elements](https://github.com/github/time-elements) ⭐ 4,039 | 🐛 23 | 🌐 JavaScript | 📅 2026-10-05 by GitHub.
 * [Media Chrome (Custom Elements for Media UIs)](https://github.com/muxinc/media-chrome) ⭐ 2,755 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-08 by Mux, Inc.
 * [Router Manager](https://github.com/erikringsmuth/app-router) ⭐ 605 | 🐛 52 | 🌐 HTML | 📅 2018-01-12 by Erik Ringsmuth.
-* [Mux Open Elements (Custom Elements for Media)](https://github.com/muxinc/elements) ⭐ 364 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-08 by Mux, Inc.
+* [Mux Open Elements (Custom Elements for Media)](https://github.com/muxinc/elements) ⭐ 364 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-09 by Mux, Inc.
 * [Responsive Embed](https://github.com/joselitojunior/responsive-embed) ⭐ 33 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-08 by Joselito Júnior
 * [Image Display Control](https://github.com/Frameright/image-display-control-web-component) ⭐ 18 | 🐛 14 | 🌐 TypeScript | 📅 2025-05-10 by Frameright.
 * [Polymer Elements Catalog](https://elements.polymer-project.org/)
@@ -331,8 +331,8 @@ Your contributions are always welcome!
 
 ## Inspiration
 
-This list was inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 187,471 | 🐛 64 | 🌐 Go | 📅 2026-10-09 and [awesome-python](https://github.com/avelino/awesome-python).
+This list was inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 187,639 | 🐛 65 | 🌐 Go | 📅 2026-10-10 and [awesome-python](https://github.com/avelino/awesome-python).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._

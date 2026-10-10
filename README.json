@@ -43,7 +43,7 @@
             "open_issues": 28,
             "owner": "Polymer",
             "repo": "web-component-tester",
-            "stars": 564,
+            "stars": 563,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:36.503Z"
@@ -374,8 +374,8 @@
                 "id": 82095231,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-08T21:43:02Z",
-                "open_issues": 182,
+                "last_commit": "2026-10-09T22:53:24Z",
+                "open_issues": 183,
                 "owner": "stenciljs",
                 "repo": "core",
                 "stars": 13136,
@@ -483,11 +483,11 @@
                 "id": 79723839,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T07:24:15Z",
+                "last_commit": "2026-10-10T09:16:32Z",
                 "open_issues": 77,
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18494,
+                "stars": 18495,
                 "topics": [
                   "ai",
                   "collaboration",
@@ -704,8 +704,8 @@
             "id": 395097869,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T23:04:54Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-09T23:39:41Z",
+            "open_issues": 15,
             "owner": "muxinc",
             "repo": "elements",
             "stars": 364,
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T10:26:17.593Z",
+    "last_updated": "2026-10-10T09:44:35.431Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Components tools, articles and resources.",
