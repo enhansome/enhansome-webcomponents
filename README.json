@@ -297,7 +297,7 @@
                 "open_issues": 30,
                 "owner": "skatejs",
                 "repo": "skatejs",
-                "stars": 3267,
+                "stars": 3266,
                 "topics": [
                   "javascript",
                   "reactiveui",
@@ -374,11 +374,11 @@
                 "id": 82095231,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-12T23:24:57Z",
+                "last_commit": "2026-10-13T23:02:26Z",
                 "open_issues": 188,
                 "owner": "stenciljs",
                 "repo": "core",
-                "stars": 13138,
+                "stars": 13140,
                 "topics": [
                   "custom-element",
                   "design-system",
@@ -483,11 +483,11 @@
                 "id": 79723839,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T09:39:05Z",
-                "open_issues": 77,
+                "last_commit": "2026-10-13T21:11:08Z",
+                "open_issues": 78,
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18494,
+                "stars": 18496,
                 "topics": [
                   "ai",
                   "collaboration",
@@ -630,7 +630,7 @@
             "open_issues": 22,
             "owner": "github",
             "repo": "relative-time-element",
-            "stars": 4040,
+            "stars": 4041,
             "topics": [
               "custom-elements",
               "keep",
@@ -654,10 +654,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-12T21:25:07Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "muxinc",
             "repo": "media-chrome",
-            "stars": 2758,
+            "stars": 2757,
             "topics": [
               "audio",
               "audio-player",
@@ -704,7 +704,7 @@
             "id": 395097869,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-12T21:15:43Z",
+            "last_commit": "2026-10-14T08:27:52Z",
             "open_issues": 15,
             "owner": "muxinc",
             "repo": "elements",
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T10:27:09.881Z",
+    "last_updated": "2026-10-14T08:36:43.627Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Components tools, articles and resources.",
