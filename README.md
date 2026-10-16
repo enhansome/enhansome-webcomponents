@@ -256,7 +256,7 @@ A curated list of awesome Web Components tools, articles and resources.
 
 ### Bit
 
-* [Bit](https://github.com/teambit/bit) ⭐ 18,496 | 🐛 84 | 🌐 TypeScript | 📅 2026-10-15 component development, reuse and collaboration tool
+* [Bit](https://github.com/teambit/bit) ⭐ 18,494 | 🐛 82 | 🌐 TypeScript | 📅 2026-10-15 component development, reuse and collaboration tool
 
 ### NuML
 
@@ -273,7 +273,7 @@ A curated list of awesome Web Components tools, articles and resources.
 *Some Web Components*
 
 * [Github Time Elements](https://github.com/github/time-elements) ⭐ 4,041 | 🐛 22 | 🌐 JavaScript | 📅 2026-10-14 by GitHub.
-* [Media Chrome (Custom Elements for Media UIs)](https://github.com/muxinc/media-chrome) ⭐ 2,756 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-14 by Mux, Inc.
+* [Media Chrome (Custom Elements for Media UIs)](https://github.com/muxinc/media-chrome) ⭐ 2,757 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-14 by Mux, Inc.
 * [Router Manager](https://github.com/erikringsmuth/app-router) ⭐ 605 | 🐛 52 | 🌐 HTML | 📅 2018-01-12 by Erik Ringsmuth.
 * [Mux Open Elements (Custom Elements for Media)](https://github.com/muxinc/elements) ⭐ 364 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-14 by Mux, Inc.
 * [Responsive Embed](https://github.com/joselitojunior/responsive-embed) ⭐ 33 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-08 by Joselito Júnior
@@ -331,8 +331,8 @@ Your contributions are always welcome!
 
 ## Inspiration
 
-This list was inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 188,485 | 🐛 72 | 🌐 Go | 📅 2026-10-14 and [awesome-python](https://github.com/avelino/awesome-python).
+This list was inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 188,659 | 🐛 71 | 🌐 Go | 📅 2026-10-15 and [awesome-python](https://github.com/avelino/awesome-python).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
