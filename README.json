@@ -195,7 +195,7 @@
                 "open_issues": 14,
                 "owner": "slimjs",
                 "repo": "slim.js",
-                "stars": 1037,
+                "stars": 1036,
                 "topics": [
                   "angular",
                   "aurelia",
@@ -375,10 +375,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-18T13:14:59Z",
-                "open_issues": 199,
+                "open_issues": 200,
                 "owner": "stenciljs",
                 "repo": "core",
-                "stars": 13145,
+                "stars": 13146,
                 "topics": [
                   "custom-element",
                   "design-system",
@@ -483,11 +483,11 @@
                 "id": 79723839,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-20T22:00:20Z",
-                "open_issues": 83,
+                "last_commit": "2026-10-21T22:05:27Z",
+                "open_issues": 80,
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18496,
+                "stars": 18495,
                 "topics": [
                   "ai",
                   "collaboration",
@@ -705,7 +705,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-19T23:04:30Z",
-            "open_issues": 17,
+            "open_issues": 19,
             "owner": "muxinc",
             "repo": "elements",
             "stars": 364,
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T08:28:37.675Z",
+    "last_updated": "2026-10-22T08:31:14.455Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Components tools, articles and resources.",
