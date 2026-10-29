@@ -177,7 +177,7 @@ A curated list of awesome Web Components tools, articles and resources.
 ### Polymer
 
 * [Polymer Generator for Yeoman](https://github.com/yeoman/generator-polymer/) ⚠️ Archived.
-* [Awesome Polymer](https://github.com/Granze/awesome-polymer) ⭐ 401 | 🐛 0 | 📅 2018-03-21 by Maurizio Mangione. :guitar:
+* [Awesome Polymer](https://github.com/Granze/awesome-polymer) ⭐ 400 | 🐛 0 | 📅 2018-03-21 by Maurizio Mangione. :guitar:
 * [PolymerSnippets](https://github.com/robdodson/PolymerSnippets) ⭐ 219 | 🐛 9 | 📅 2018-02-04 by Rob Dodson.
 * [Polymer Project](https://www.polymer-project.org) by Google.
 * [Join the Web Components revolution with Polymer](http://www.ibm.com/developerworks/library/wa-polymer/) by Sing Li.
@@ -256,7 +256,7 @@ A curated list of awesome Web Components tools, articles and resources.
 
 ### Bit
 
-* [Bit](https://github.com/teambit/bit) ⭐ 18,500 | 🐛 83 | 🌐 TypeScript | 📅 2026-10-28 component development, reuse and collaboration tool
+* [Bit](https://github.com/teambit/bit) ⭐ 18,499 | 🐛 82 | 🌐 TypeScript | 📅 2026-10-28 component development, reuse and collaboration tool
 
 ### NuML
 
@@ -273,7 +273,7 @@ A curated list of awesome Web Components tools, articles and resources.
 *Some Web Components*
 
 * [Github Time Elements](https://github.com/github/time-elements) ⭐ 4,042 | 🐛 22 | 🌐 JavaScript | 📅 2026-10-23 by GitHub.
-* [Media Chrome (Custom Elements for Media UIs)](https://github.com/muxinc/media-chrome) ⭐ 2,764 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-23 by Mux, Inc.
+* [Media Chrome (Custom Elements for Media UIs)](https://github.com/muxinc/media-chrome) ⭐ 2,765 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-23 by Mux, Inc.
 * [Router Manager](https://github.com/erikringsmuth/app-router) ⭐ 605 | 🐛 52 | 🌐 HTML | 📅 2018-01-12 by Erik Ringsmuth.
 * [Mux Open Elements (Custom Elements for Media)](https://github.com/muxinc/elements) ⭐ 365 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-23 by Mux, Inc.
 * [Responsive Embed](https://github.com/joselitojunior/responsive-embed) ⭐ 33 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-27 by Joselito Júnior
@@ -331,8 +331,8 @@ Your contributions are always welcome!
 
 ## Inspiration
 
-This list was inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 190,762 | 🐛 93 | 🌐 Go | 📅 2026-10-26 and [awesome-python](https://github.com/avelino/awesome-python).
+This list was inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 190,938 | 🐛 96 | 🌐 Go | 📅 2026-10-26 and [awesome-python](https://github.com/avelino/awesome-python).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
