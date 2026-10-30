@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "Polymer",
             "repo": "polymer-bundler",
-            "stars": 1191,
+            "stars": 1190,
             "topics": [
               "polymer",
               "web-components"
@@ -263,7 +263,7 @@
                 "open_issues": 4,
                 "owner": "Wildhoney",
                 "repo": "Standalone",
-                "stars": 207,
+                "stars": 206,
                 "topics": [
                   "components",
                   "custom-elements",
@@ -374,11 +374,11 @@
                 "id": 82095231,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-18T13:14:59Z",
-                "open_issues": 202,
+                "last_commit": "2026-10-30T01:47:10Z",
+                "open_issues": 203,
                 "owner": "stenciljs",
                 "repo": "core",
-                "stars": 13146,
+                "stars": 13147,
                 "topics": [
                   "custom-element",
                   "design-system",
@@ -483,8 +483,8 @@
                 "id": 79723839,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-28T21:26:44Z",
-                "open_issues": 82,
+                "last_commit": "2026-10-29T21:45:09Z",
+                "open_issues": 80,
                 "owner": "teambit",
                 "repo": "bit",
                 "stars": 18499,
@@ -573,7 +573,7 @@
                 "id": 157021511,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-07-16T14:06:45Z",
+                "last_commit": "2026-10-29T16:49:11Z",
                 "open_issues": 11,
                 "owner": "Polight",
                 "repo": "lego",
@@ -653,8 +653,8 @@
             "id": 208394975,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-23T18:58:50Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-29T15:37:32Z",
+            "open_issues": 6,
             "owner": "muxinc",
             "repo": "media-chrome",
             "stars": 2765,
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T09:50:50.191Z",
+    "last_updated": "2026-10-30T09:54:42.878Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Components tools, articles and resources.",
