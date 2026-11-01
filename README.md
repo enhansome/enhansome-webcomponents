@@ -256,7 +256,7 @@ A curated list of awesome Web Components tools, articles and resources.
 
 ### Bit
 
-* [Bit](https://github.com/teambit/bit) ⭐ 18,500 | 🐛 81 | 🌐 TypeScript | 📅 2026-10-30 component development, reuse and collaboration tool
+* [Bit](https://github.com/teambit/bit) ⭐ 18,500 | 🐛 82 | 🌐 TypeScript | 📅 2026-10-31 component development, reuse and collaboration tool
 
 ### NuML
 
@@ -331,8 +331,8 @@ Your contributions are always welcome!
 
 ## Inspiration
 
-This list was inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 191,271 | 🐛 95 | 🌐 Go | 📅 2026-10-30 and [awesome-python](https://github.com/avelino/awesome-python).
+This list was inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 191,432 | 🐛 99 | 🌐 Go | 📅 2026-10-30 and [awesome-python](https://github.com/avelino/awesome-python).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
