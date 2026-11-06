@@ -374,11 +374,11 @@
                 "id": 82095231,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-04T20:28:43Z",
-                "open_issues": 207,
+                "last_commit": "2026-11-05T23:41:21Z",
+                "open_issues": 209,
                 "owner": "stenciljs",
                 "repo": "core",
-                "stars": 13151,
+                "stars": 13153,
                 "topics": [
                   "custom-element",
                   "design-system",
@@ -483,11 +483,11 @@
                 "id": 79723839,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-04T20:28:30Z",
+                "last_commit": "2026-11-05T20:54:19Z",
                 "open_issues": 74,
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18503,
+                "stars": 18504,
                 "topics": [
                   "ai",
                   "collaboration",
@@ -626,8 +626,8 @@
             "id": 19039693,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-04T21:32:49Z",
-            "open_issues": 23,
+            "last_commit": "2026-11-05T17:11:59Z",
+            "open_issues": 21,
             "owner": "github",
             "repo": "relative-time-element",
             "stars": 4043,
@@ -657,7 +657,7 @@
             "open_issues": 7,
             "owner": "muxinc",
             "repo": "media-chrome",
-            "stars": 2765,
+            "stars": 2767,
             "topics": [
               "audio",
               "audio-player",
@@ -708,7 +708,7 @@
             "open_issues": 19,
             "owner": "muxinc",
             "repo": "elements",
-            "stars": 365,
+            "stars": 364,
             "topics": [
               "audio",
               "audio-player",
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T10:45:12.441Z",
+    "last_updated": "2026-11-06T10:45:03.998Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Components tools, articles and resources.",
