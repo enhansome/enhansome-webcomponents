@@ -378,7 +378,7 @@
                 "open_issues": 209,
                 "owner": "stenciljs",
                 "repo": "core",
-                "stars": 13154,
+                "stars": 13155,
                 "topics": [
                   "custom-element",
                   "design-system",
@@ -657,7 +657,7 @@
             "open_issues": 7,
             "owner": "muxinc",
             "repo": "media-chrome",
-            "stars": 2767,
+            "stars": 2768,
             "topics": [
               "audio",
               "audio-player",
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T09:57:47.749Z",
+    "last_updated": "2026-11-08T10:12:38.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Components tools, articles and resources.",
