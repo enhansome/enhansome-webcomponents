@@ -374,11 +374,11 @@
                 "id": 82095231,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-09T19:45:15Z",
-                "open_issues": 209,
+                "last_commit": "2026-11-11T10:35:42Z",
+                "open_issues": 200,
                 "owner": "stenciljs",
                 "repo": "core",
-                "stars": 13153,
+                "stars": 13154,
                 "topics": [
                   "custom-element",
                   "design-system",
@@ -483,11 +483,11 @@
                 "id": 79723839,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-09T17:29:53Z",
-                "open_issues": 73,
+                "last_commit": "2026-11-10T22:30:49Z",
+                "open_issues": 74,
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18505,
+                "stars": 18506,
                 "topics": [
                   "ai",
                   "collaboration",
@@ -535,7 +535,7 @@
                 "open_issues": 24,
                 "owner": "outpostHQ",
                 "repo": "numl",
-                "stars": 340,
+                "stars": 341,
                 "topics": [
                   "css-framework",
                   "css-generator",
@@ -630,7 +630,7 @@
             "open_issues": 22,
             "owner": "github",
             "repo": "relative-time-element",
-            "stars": 4059,
+            "stars": 4061,
             "topics": [
               "custom-elements",
               "keep",
@@ -654,7 +654,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-09T21:40:44Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "muxinc",
             "repo": "media-chrome",
             "stars": 2768,
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T11:01:48.569Z",
+    "last_updated": "2026-11-11T10:46:52.624Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Components tools, articles and resources.",
