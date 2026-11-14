@@ -243,7 +243,7 @@ A curated list of awesome Web Components tools, articles and resources.
 
 ### Stencil.js
 
-* [Git repository](https://github.com/ionic-team/stencil) ⭐ 13,153 | 🐛 190 | 🌐 TypeScript | 📅 2026-11-12
+* [Git repository](https://github.com/ionic-team/stencil) ⭐ 13,153 | 🐛 192 | 🌐 TypeScript | 📅 2026-11-12
 * [AnywhereUI](https://github.com/adaleks/anywhere-ui) ⭐ 38 | 🐛 3 | 🌐 TypeScript | 📅 2024-06-06
 * [Stencil.js site](https://stenciljs.com/)
 
@@ -256,7 +256,7 @@ A curated list of awesome Web Components tools, articles and resources.
 
 ### Bit
 
-* [Bit](https://github.com/teambit/bit) ⭐ 18,507 | 🐛 75 | 🌐 TypeScript | 📅 2026-11-12 component development, reuse and collaboration tool
+* [Bit](https://github.com/teambit/bit) ⭐ 18,507 | 🐛 77 | 🌐 TypeScript | 📅 2026-11-13 component development, reuse and collaboration tool
 
 ### NuML
 
@@ -273,9 +273,9 @@ A curated list of awesome Web Components tools, articles and resources.
 *Some Web Components*
 
 * [Github Time Elements](https://github.com/github/time-elements) ⭐ 4,062 | 🐛 22 | 🌐 JavaScript | 📅 2026-11-08 by GitHub.
-* [Media Chrome (Custom Elements for Media UIs)](https://github.com/muxinc/media-chrome) ⭐ 2,769 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-12 by Mux, Inc.
+* [Media Chrome (Custom Elements for Media UIs)](https://github.com/muxinc/media-chrome) ⭐ 2,771 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-12 by Mux, Inc.
 * [Router Manager](https://github.com/erikringsmuth/app-router) ⭐ 605 | 🐛 52 | 🌐 HTML | 📅 2018-01-12 by Erik Ringsmuth.
-* [Mux Open Elements (Custom Elements for Media)](https://github.com/muxinc/elements) ⭐ 363 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-30 by Mux, Inc.
+* [Mux Open Elements (Custom Elements for Media)](https://github.com/muxinc/elements) ⭐ 363 | 🐛 21 | 🌐 TypeScript | 📅 2026-11-13 by Mux, Inc.
 * [Responsive Embed](https://github.com/joselitojunior/responsive-embed) ⭐ 33 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-27 by Joselito Júnior
 * [Image Display Control](https://github.com/Frameright/image-display-control-web-component) ⭐ 18 | 🐛 14 | 🌐 TypeScript | 📅 2025-05-10 by Frameright.
 * [Polymer Elements Catalog](https://elements.polymer-project.org/)
@@ -331,8 +331,8 @@ Your contributions are always welcome!
 
 ## Inspiration
 
-This list was inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 193,642 | 🐛 131 | 🌐 Go | 📅 2026-11-12 and [awesome-python](https://github.com/avelino/awesome-python).
+This list was inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 193,837 | 🐛 129 | 🌐 Go | 📅 2026-11-13 and [awesome-python](https://github.com/avelino/awesome-python).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
