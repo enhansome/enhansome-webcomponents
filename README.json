@@ -85,7 +85,7 @@
             "open_issues": 0,
             "owner": "webcomponents",
             "repo": "slush-element",
-            "stars": 41,
+            "stars": 40,
             "topics": []
           },
           "first_seen": "2026-08-28T15:16:36.503Z"
@@ -378,7 +378,7 @@
                 "open_issues": 192,
                 "owner": "stenciljs",
                 "repo": "core",
-                "stars": 13153,
+                "stars": 13152,
                 "topics": [
                   "custom-element",
                   "design-system",
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T10:13:31.264Z",
+    "last_updated": "2026-11-15T10:43:20.398Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Components tools, articles and resources.",
