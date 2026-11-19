@@ -374,8 +374,8 @@
                 "id": 82095231,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-18T10:07:19Z",
-                "open_issues": 195,
+                "last_commit": "2026-11-18T20:52:23Z",
+                "open_issues": 194,
                 "owner": "stenciljs",
                 "repo": "core",
                 "stars": 13155,
@@ -484,7 +484,7 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-16T18:38:55Z",
-                "open_issues": 74,
+                "open_issues": 75,
                 "owner": "teambit",
                 "repo": "bit",
                 "stars": 18508,
@@ -626,7 +626,7 @@
             "id": 19039693,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-18T05:25:55Z",
+            "last_commit": "2026-11-19T02:58:14Z",
             "open_issues": 23,
             "owner": "github",
             "repo": "relative-time-element",
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T11:31:09.381Z",
+    "last_updated": "2026-11-19T11:29:42.575Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Components tools, articles and resources.",
