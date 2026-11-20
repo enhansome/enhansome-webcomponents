@@ -209,7 +209,7 @@ A curated list of awesome Web Components tools, articles and resources.
 
 ### Slim-JS
 
-* [Git repository](https://github.com/eavichay/slim.js) ⭐ 1,037 | 🐛 14 | 🌐 CSS | 📅 2023-09-06
+* [Git repository](https://github.com/eavichay/slim.js) ⭐ 1,036 | 🐛 14 | 🌐 CSS | 📅 2023-09-06
 * [Slim-JS Documentation](http://slimjs.com)
 
 ### ReactJS
@@ -219,7 +219,7 @@ A curated list of awesome Web Components tools, articles and resources.
 
 ### SkateJS
 
-* [SkateJS Repo](https://github.com/skatejs/skatejs) ⭐ 3,266 | 🐛 30 | 🌐 JavaScript | 📅 2022-02-26
+* [SkateJS Repo](https://github.com/skatejs/skatejs) ⭐ 3,265 | 🐛 30 | 🌐 JavaScript | 📅 2022-02-26
 
 ### Aurelia
 
@@ -243,7 +243,7 @@ A curated list of awesome Web Components tools, articles and resources.
 
 ### Stencil.js
 
-* [Git repository](https://github.com/ionic-team/stencil) ⭐ 13,155 | 🐛 194 | 🌐 TypeScript | 📅 2026-11-18
+* [Git repository](https://github.com/ionic-team/stencil) ⭐ 13,154 | 🐛 197 | 🌐 TypeScript | 📅 2026-11-20
 * [AnywhereUI](https://github.com/adaleks/anywhere-ui) ⭐ 38 | 🐛 3 | 🌐 TypeScript | 📅 2024-06-06
 * [Stencil.js site](https://stenciljs.com/)
 
@@ -260,7 +260,7 @@ A curated list of awesome Web Components tools, articles and resources.
 
 ### NuML
 
-* [NuML repository](https://github.com/tenphi/numl) ⭐ 341 | 🐛 24 | 🌐 JavaScript | 📅 2026-04-01
+* [NuML repository](https://github.com/tenphi/numl) ⭐ 340 | 🐛 24 | 🌐 JavaScript | 📅 2026-04-01
 * [NuML site & storybook](https://numl.design) style-oriented framework and design system
 
 ### Lego
@@ -272,8 +272,8 @@ A curated list of awesome Web Components tools, articles and resources.
 
 *Some Web Components*
 
-* [Github Time Elements](https://github.com/github/time-elements) ⭐ 4,063 | 🐛 23 | 🌐 JavaScript | 📅 2026-11-19 by GitHub.
-* [Media Chrome (Custom Elements for Media UIs)](https://github.com/muxinc/media-chrome) ⭐ 2,771 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-12 by Mux, Inc.
+* [Github Time Elements](https://github.com/github/time-elements) ⭐ 4,062 | 🐛 24 | 🌐 JavaScript | 📅 2026-11-20 by GitHub.
+* [Media Chrome (Custom Elements for Media UIs)](https://github.com/muxinc/media-chrome) ⭐ 2,772 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-12 by Mux, Inc.
 * [Router Manager](https://github.com/erikringsmuth/app-router) ⭐ 605 | 🐛 52 | 🌐 HTML | 📅 2018-01-12 by Erik Ringsmuth.
 * [Mux Open Elements (Custom Elements for Media)](https://github.com/muxinc/elements) ⭐ 363 | 🐛 18 | 🌐 TypeScript | 📅 2026-11-17 by Mux, Inc.
 * [Responsive Embed](https://github.com/joselitojunior/responsive-embed) ⭐ 33 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-27 by Joselito Júnior
@@ -331,8 +331,8 @@ Your contributions are always welcome!
 
 ## Inspiration
 
-This list was inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 194,751 | 🐛 117 | 🌐 Go | 📅 2026-11-19 and [awesome-python](https://github.com/avelino/awesome-python).
+This list was inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 194,917 | 🐛 116 | 🌐 Go | 📅 2026-11-19 and [awesome-python](https://github.com/avelino/awesome-python).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
