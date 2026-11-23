@@ -243,7 +243,7 @@ A curated list of awesome Web Components tools, articles and resources.
 
 ### Stencil.js
 
-* [Git repository](https://github.com/ionic-team/stencil) ⭐ 13,155 | 🐛 196 | 🌐 TypeScript | 📅 2026-11-20
+* [Git repository](https://github.com/ionic-team/stencil) ⭐ 13,154 | 🐛 196 | 🌐 TypeScript | 📅 2026-11-20
 * [AnywhereUI](https://github.com/adaleks/anywhere-ui) ⭐ 38 | 🐛 3 | 🌐 TypeScript | 📅 2024-06-06
 * [Stencil.js site](https://stenciljs.com/)
 
@@ -256,7 +256,7 @@ A curated list of awesome Web Components tools, articles and resources.
 
 ### Bit
 
-* [Bit](https://github.com/teambit/bit) ⭐ 18,508 | 🐛 75 | 🌐 TypeScript | 📅 2026-11-16 component development, reuse and collaboration tool
+* [Bit](https://github.com/teambit/bit) ⭐ 18,508 | 🐛 78 | 🌐 TypeScript | 📅 2026-11-23 component development, reuse and collaboration tool
 
 ### NuML
 
@@ -331,8 +331,8 @@ Your contributions are always welcome!
 
 ## Inspiration
 
-This list was inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 195,321 | 🐛 113 | 🌐 Go | 📅 2026-11-21 and [awesome-python](https://github.com/avelino/awesome-python).
+This list was inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 195,508 | 🐛 109 | 🌐 Go | 📅 2026-11-22 and [awesome-python](https://github.com/avelino/awesome-python).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
