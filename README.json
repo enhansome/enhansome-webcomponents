@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "Polymer",
             "repo": "polymer-bundler",
-            "stars": 1188,
+            "stars": 1187,
             "topics": [
               "polymer",
               "web-components"
@@ -297,7 +297,7 @@
                 "open_issues": 30,
                 "owner": "skatejs",
                 "repo": "skatejs",
-                "stars": 3265,
+                "stars": 3264,
                 "topics": [
                   "javascript",
                   "reactiveui",
@@ -374,11 +374,11 @@
                 "id": 82095231,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-24T12:43:44Z",
-                "open_issues": 189,
+                "last_commit": "2026-11-24T21:14:46Z",
+                "open_issues": 175,
                 "owner": "stenciljs",
                 "repo": "core",
-                "stars": 13153,
+                "stars": 13154,
                 "topics": [
                   "custom-element",
                   "design-system",
@@ -487,7 +487,7 @@
                 "open_issues": 75,
                 "owner": "teambit",
                 "repo": "bit",
-                "stars": 18507,
+                "stars": 18508,
                 "topics": [
                   "ai",
                   "collaboration",
@@ -630,7 +630,7 @@
             "open_issues": 20,
             "owner": "github",
             "repo": "relative-time-element",
-            "stars": 4063,
+            "stars": 4064,
             "topics": [
               "custom-elements",
               "keep",
@@ -657,7 +657,7 @@
             "open_issues": 3,
             "owner": "muxinc",
             "repo": "media-chrome",
-            "stars": 2774,
+            "stars": 2776,
             "topics": [
               "audio",
               "audio-player",
@@ -704,8 +704,8 @@
             "id": 395097869,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-23T23:04:58Z",
-            "open_issues": 17,
+            "last_commit": "2026-11-24T23:04:29Z",
+            "open_issues": 16,
             "owner": "muxinc",
             "repo": "elements",
             "stars": 363,
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T13:33:51.000Z",
+    "last_updated": "2026-11-25T12:42:40.105Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Components tools, articles and resources.",
