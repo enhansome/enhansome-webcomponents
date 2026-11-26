@@ -374,8 +374,8 @@
                 "id": 82095231,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-24T21:14:46Z",
-                "open_issues": 175,
+                "last_commit": "2026-11-26T00:03:25Z",
+                "open_issues": 177,
                 "owner": "stenciljs",
                 "repo": "core",
                 "stars": 13154,
@@ -630,7 +630,7 @@
             "open_issues": 20,
             "owner": "github",
             "repo": "relative-time-element",
-            "stars": 4064,
+            "stars": 4067,
             "topics": [
               "custom-elements",
               "keep",
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T12:42:40.105Z",
+    "last_updated": "2026-11-26T12:16:33.857Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Components tools, articles and resources.",
