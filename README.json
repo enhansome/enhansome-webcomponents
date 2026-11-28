@@ -114,7 +114,7 @@
                 "open_issues": 14,
                 "owner": "yeoman",
                 "repo": "generator-polymer",
-                "stars": 911,
+                "stars": 910,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:16:36.503Z"
@@ -167,7 +167,7 @@
                 "open_issues": 9,
                 "owner": "robdodson",
                 "repo": "PolymerSnippets",
-                "stars": 219,
+                "stars": 218,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:16:36.503Z"
@@ -374,11 +374,11 @@
                 "id": 82095231,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-27T11:16:50Z",
-                "open_issues": 172,
+                "last_commit": "2026-11-28T02:12:59Z",
+                "open_issues": 174,
                 "owner": "stenciljs",
                 "repo": "core",
-                "stars": 13155,
+                "stars": 13156,
                 "topics": [
                   "custom-element",
                   "design-system",
@@ -406,8 +406,8 @@
                 "id": 417591966,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-26T20:59:23Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-28T08:07:20Z",
+                "open_issues": 1,
                 "owner": "adaleks",
                 "repo": "anywhere-ui",
                 "stars": 38,
@@ -909,7 +909,7 @@
                 "open_issues": 6,
                 "owner": "webcomponents",
                 "repo": "element-boilerplate",
-                "stars": 272,
+                "stars": 271,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:16:36.503Z"
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T12:04:13.182Z",
+    "last_updated": "2026-11-28T11:37:47.956Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Components tools, articles and resources.",

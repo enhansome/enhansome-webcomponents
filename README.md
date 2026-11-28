@@ -178,7 +178,7 @@ A curated list of awesome Web Components tools, articles and resources.
 
 * [Polymer Generator for Yeoman](https://github.com/yeoman/generator-polymer/) ⚠️ Archived.
 * [Awesome Polymer](https://github.com/Granze/awesome-polymer) ⭐ 400 | 🐛 0 | 📅 2018-03-21 by Maurizio Mangione. :guitar:
-* [PolymerSnippets](https://github.com/robdodson/PolymerSnippets) ⭐ 219 | 🐛 9 | 📅 2018-02-04 by Rob Dodson.
+* [PolymerSnippets](https://github.com/robdodson/PolymerSnippets) ⭐ 218 | 🐛 9 | 📅 2018-02-04 by Rob Dodson.
 * [Polymer Project](https://www.polymer-project.org) by Google.
 * [Join the Web Components revolution with Polymer](http://www.ibm.com/developerworks/library/wa-polymer/) by Sing Li.
 * [Introduction to Polymer: The Next Generation of Web Development](https://www.youtube.com/watch?v=8-Zq2KUN6jM) by Matthew McNulty.
@@ -243,8 +243,8 @@ A curated list of awesome Web Components tools, articles and resources.
 
 ### Stencil.js
 
-* [Git repository](https://github.com/ionic-team/stencil) ⭐ 13,155 | 🐛 172 | 🌐 TypeScript | 📅 2026-11-27
-* [AnywhereUI](https://github.com/adaleks/anywhere-ui) ⭐ 38 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-26
+* [Git repository](https://github.com/ionic-team/stencil) ⭐ 13,156 | 🐛 174 | 🌐 TypeScript | 📅 2026-11-28
+* [AnywhereUI](https://github.com/adaleks/anywhere-ui) ⭐ 38 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-28
 * [Stencil.js site](https://stenciljs.com/)
 
 ### ComponentForge
@@ -331,8 +331,8 @@ Your contributions are always welcome!
 
 ## Inspiration
 
-This list was inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 196,259 | 🐛 101 | 🌐 Go | 📅 2026-11-27 and [awesome-python](https://github.com/avelino/awesome-python).
+This list was inspired by [awesome-go](https://github.com/avelino/awesome-go) ⭐ 196,453 | 🐛 98 | 🌐 Go | 📅 2026-11-28 and [awesome-python](https://github.com/avelino/awesome-python).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
